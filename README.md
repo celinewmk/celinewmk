@@ -6,6 +6,9 @@ I am Céline and I am a second year computer science student at the University o
 - 🌱 I’m currently interested in software development and digital transformation
 - 📫 How to reach me: celinewan89@gmail.com
 - 😄 Pronouns: she/her
+
+<!-- ![celinewmk's GitHub stats](https://github-readme-stats.vercel.app/api?username=celinewmk&theme=synthwave&show_icons=true) -->
+
 <!--
 **celinewmk/celinewmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
