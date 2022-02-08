@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Céline and I am a second year computer science student at the University of Ottawa.
+
+- 🔭 I’m currently working on the development of the uOttawa Wellness App alongside 2 other developers
+- 🌱 I’m currently interested in software development and digital transformation
+- 📫 How to reach me: celinewan89@gmail.com
+- 😄 Pronouns: she/her
 <!--
 **celinewmk/celinewmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
