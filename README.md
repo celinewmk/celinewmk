@@ -7,7 +7,7 @@ I am Céline and I am a second year computer science student at the University o
 - 📫 How to reach me: celinewan89@gmail.com
 - 😄 Pronouns: she/her
 
-<p><img align="left" height="194" src="https://github-readme-stats.vercel.app/api/top-langs?username=celinewmk&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="celinewmk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=celinewmk&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="celinewmk" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=celinewmk&locale=en&count_private=true&show_icons=true&theme=synthwave" alt="celinewmk" /></p>
 
 <!--
