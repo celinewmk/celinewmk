@@ -6,9 +6,9 @@ I am Céline and I am a second year computer science student at the University o
 - 🌱 I’m currently interested in software development and digital transformation
 - 📫 How to reach me: celinewan89@gmail.com
 - 😄 Pronouns: she/her
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=celinewmk&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="celinewmk" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=celinewmk&locale=en&count_private=true&show_icons=true&theme=synthwave" alt="celinewmk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=celinewmk&locale=en&count_private=true&show_icons=true&theme=synthwave" alt="celinewmk" /></p>
+<p></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=celinewmk&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="celinewmk" /></p>
 
 <!--
 **celinewmk/celinewmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
