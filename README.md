@@ -12,7 +12,7 @@ I am Céline and I am a second year computer science student at the University o
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=celinewmk&show_icons=true&locale=en&count_private=true&show_icons=true&theme=synthwave">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=celinewmk&show_icons=true&locale=en&layout=compact&theme=synthwave&langs_count=10" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=celinewmk&show_icons=true&locale=en&layout=compact&theme=synthwave&langs_count=6" />
   </a>
 </p>
 
