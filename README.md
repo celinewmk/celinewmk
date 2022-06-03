@@ -2,7 +2,7 @@
 
 I am Céline and I am a second year computer science student at the University of Ottawa.
 
-- 🔭 I’m currently working on the development of the uOttawa Wellness App alongside 2 other developers
+- 🔭 I’m currently doing a COOP internship at NetFore Systems
 - 🌱 I’m currently interested in software development and digital transformation
 - 📫 How to reach me: celinewan89@gmail.com
 - 😄 Pronouns: she/her
