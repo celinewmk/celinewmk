@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Céline and I am a second year computer science student at the University of Ottawa.
+I am Céline and I am a third year computer science student at the University of Ottawa.
 
-- 🔭 I’m currently doing a COOP internship at NetFore Systems
+<!-- - 🔭 I’m currently doing a COOP internship at NetFore Systems -->
 - 🌱 I’m currently interested in software development and digital transformation
 - 📫 How to reach me: celinewan89@gmail.com
 - 😄 Pronouns: she/her
